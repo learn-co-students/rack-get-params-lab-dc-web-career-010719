@@ -1,5 +1,6 @@
 require_relative '../config/environment'
 require 'rack/test'
+require 'rspec'
 
 RSpec.configure do |config|
 
